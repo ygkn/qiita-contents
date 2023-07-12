@@ -3,10 +3,10 @@ title: Storybook の目的のページを一瞬で開ける VS Code 拡張機能
 tags:
   - "VS Code"
   - "Storybook"
-private: false
+private: true
 updated_at: ""
 id: null
-organization_url_name: yumemi
+organization_url_name: null
 ---
 
 <!-- textlint-disable ja-technical-writing/no-exclamation-question-mark -->
